@@ -1,6 +1,6 @@
 <?php
 echo "Contacto";
 echo "Contacto1";
-echo "Contacto2";
+echo "Contacto 2";
 
 ?>
