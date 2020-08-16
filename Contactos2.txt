@@ -1,0 +1,6 @@
+<?php
+
+echo "Contacto 1 ";
+echo "Contacto 1 ";
+
+?>
